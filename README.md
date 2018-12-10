@@ -1,2 +1,2 @@
-# EE258-PUBG
-EE258 Project II 
+# Kaggle-PUBG-competition
+PUBG Finish Placement Prediction (Kernels Only)
